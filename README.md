@@ -3,13 +3,11 @@
 ###
 
 <ul align="left">
-  <li>🎓 Software Engineering Student @ Addis Ababa Science and Technology University (AASTU)</li>
-  <li>🎨 UI/UX Designer</li>
-  <li>📱 Flutter Developer</li>
-  <li>🌐 Django Developer</li>
-  <li>🚀 Building user-centered digital experiences and real-world solutions</li>
-  <li>🌱 Always learning, designing, and developing</li>
-  <li>📧 Contact: yoditgirma1422@gmail.com</li>
+  <li>Software Engineering Student @ Addis Ababa Science and Technology University (AASTU)</li>
+  <li>UI/UX Designer | Flutter Developer | Django Developer</li>
+  <li>Building user-centered digital experiences and real-world solutions</li>
+  <li>Always learning, designing, and developing</li>
+  <li>Contact: yoditgirma1422@gmail.com</li>
 </ul>
 
 ###
