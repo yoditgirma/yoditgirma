@@ -54,18 +54,18 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/yodit-girma-13302833b/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="20" />
   </a>
 
   <img width="12" />
 
   <a href="mailto:yoditgirma1422@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="20" />
   </a>
 
   <img width="12" />
 
   <a href="https://t.me/KAYOD19" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" height="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" height="20" />
   </a>
 </div>
