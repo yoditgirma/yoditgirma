@@ -7,7 +7,7 @@
   <li>UI/UX Designer | Flutter Developer | Django Developer</li>
   <li>Building user-centered digital experiences and real-world solutions</li>
   <li>Always learning, designing, and developing</li>
-  <li>Contact: yoditgirma1422@gmail.com</li>
+  <li>Contact: <a href="yoditgirma1422@gmail.com"></li>
 </ul>
 
 ###
